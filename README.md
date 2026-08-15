@@ -40,8 +40,10 @@ Combines Results
  ↓
 Personalized Trip Plan
 ```
-## ReAct Agent Workflow
-<img width="586" height="589" alt="image" src="https://github.com/user-attachments/assets/17faff69-2636-4669-8303-d781f863b482" />
+## ReAct Agent Workflow/Architecture
+
+<img width="586" height="589" alt="react" src="https://github.com/user-attachments/assets/ae99ac09-ed6e-463c-86e9-835510139dc8" />
+
 
 
 ##  Run Locally
