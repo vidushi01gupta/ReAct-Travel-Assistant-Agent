@@ -84,6 +84,15 @@ The application will open at:
 ```text
 http://localhost:8501
 ```
+## ▶️ Running the Project
+
+To run the Travel Assistant:
+
+1. Open the `travel_assistant.ipynb` notebook.
+2. Select the appropriate **Kernel** / Python environment.
+3. Click **Run All** to execute all the cells.
+4. Follow the notebook output to interact with the Travel Assistant.
+
 
 ##  Example Query
 
