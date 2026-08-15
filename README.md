@@ -2,6 +2,12 @@
 
 An AI-powered travel assistant that uses a **ReAct agent** to search and combine real-time travel information from multiple services.
 
+## Live Demo
+
+https://react-travel-assistant.onrender.com/
+
+Note: The live application depends on third-party API availability and usage limits. If an API reaches its rate or token limit, some features may temporarily be unavailable.
+
 ##  Features
 
 *  Flight search
