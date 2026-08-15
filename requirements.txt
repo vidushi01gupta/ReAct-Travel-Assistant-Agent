@@ -1,0 +1,33 @@
+# langchain dependencies
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain-groq
+langchain-tavily
+
+# ollama
+langchain-ollama
+ollama
+
+# tools
+duckduckgo_search
+ddgs
+arxiv==1.0.0
+wikipedia
+tavily-python
+
+# Environment Variable Management
+python-dotenv
+
+# Streamlit
+streamlit
+
+# For Ipykernel
+ipykernel
+
+# Langgraph
+langgraph
